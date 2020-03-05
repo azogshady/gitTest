@@ -1,2 +1,3 @@
-var hello = "hello world";
-alert(hello);
+var planet = document.getElementById("header1");
+planet.innerHTML = "this has been subjected to change";
+//alert(planet);
